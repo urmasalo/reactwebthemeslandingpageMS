@@ -9,22 +9,22 @@ const Sikil = () => (
         <ol className="breadcrumb justify-content-center">
           <li className="breadcrumb-item active" aria-current="page">
             <Link to="/" className="text-danger">
-              Home
+              Home de Jenny
             </Link>
           </li>
           <li className="breadcrumb-item active" aria-current="page">
             <Link to="/resto" className="text-danger">
-              Resto
+              Restorante
             </Link>
           </li>
           <li className="breadcrumb-item active" aria-current="page">
             <Link to="/toko" className="text-danger">
-              Shop
+              Shop all you need
             </Link>
           </li>
           <li className="breadcrumb-item active" aria-current="page">
             <Link to="/website" className="text-danger">
-              Website
+              Website as fuck
             </Link>
           </li>
           <li className="breadcrumb-item active" aria-current="page">
